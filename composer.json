@@ -1,0 +1,11 @@
+{
+    "authors": [
+        {
+            "name": "Popov Eugene",
+            "email": "zhenya1995q@gmail.com"
+        }
+    ],
+    "name": "eugene/untitled4",
+    "minimum-stability": "stable",
+    "require": {}
+}
